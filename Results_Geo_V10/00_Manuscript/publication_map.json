@@ -1,0 +1,116 @@
+{
+  "main_figures_maximum": 15,
+  "main_figures_selected": 14,
+  "main_tables_maximum": 7,
+  "main_tables_selected": 7,
+  "main_figure_order": [
+    {
+      "number": 1,
+      "title": "Supplier-resource concentration matrix",
+      "section": "Data and network construction"
+    },
+    {
+      "number": 2,
+      "title": "Technology-resource intensity matrix",
+      "section": "Data and network construction"
+    },
+    {
+      "number": 3,
+      "title": "European transition-technology portfolios",
+      "section": "Data and network construction"
+    },
+    {
+      "number": 4,
+      "title": "Hidden upstream concentration at matched technology concentration",
+      "section": "Hidden vulnerability"
+    },
+    {
+      "number": 5,
+      "title": "Baseline structural vulnerability in the original sample",
+      "section": "Hidden vulnerability"
+    },
+    {
+      "number": 6,
+      "title": "Transition-capacity losses under geopolitical shocks",
+      "section": "Counterfactual shocks"
+    },
+    {
+      "number": 7,
+      "title": "Resource-channel contributions to transition vulnerability",
+      "section": "Policy implications"
+    },
+    {
+      "number": 8,
+      "title": "Resilience-priority ranking by critical resource",
+      "section": "Policy implications"
+    },
+    {
+      "number": 9,
+      "title": "HHI and spectral concentration in the original and extended samples",
+      "section": "Metric validation"
+    },
+    {
+      "number": 10,
+      "title": "Predictive comparison of conventional and network metrics",
+      "section": "Metric validation"
+    },
+    {
+      "number": 11,
+      "title": "Shock-intensity sensitivity in the extended Nordic sample",
+      "section": "Robustness"
+    },
+    {
+      "number": 12,
+      "title": "Baseline vulnerability in the extended Nordic sample",
+      "section": "Robustness"
+    },
+    {
+      "number": 13,
+      "title": "Cross-metric vulnerability rankings in the extended sample",
+      "section": "Robustness"
+    },
+    {
+      "number": 14,
+      "title": "Leave-one-resource-out robustness",
+      "section": "Robustness"
+    }
+  ],
+  "main_table_order": [
+    {
+      "number": 1,
+      "title": "Baseline structural vulnerability across European economies",
+      "section": "Hidden vulnerability"
+    },
+    {
+      "number": 2,
+      "title": "Transition-capacity losses under counterfactual geopolitical shocks",
+      "section": "Counterfactual shocks"
+    },
+    {
+      "number": 3,
+      "title": "Comparative performance of conventional and network vulnerability metrics",
+      "section": "Metric validation"
+    },
+    {
+      "number": 4,
+      "title": "Incremental explanatory power beyond technology HHI",
+      "section": "Metric validation"
+    },
+    {
+      "number": 5,
+      "title": "Shock-intensity sensitivity",
+      "section": "Robustness"
+    },
+    {
+      "number": 6,
+      "title": "Resource-subset and leave-one-resource-out robustness",
+      "section": "Robustness"
+    },
+    {
+      "number": 7,
+      "title": "Resource-level resilience priority ranking",
+      "section": "Policy implications"
+    }
+  ],
+  "editorial_note": "Figures 1-8 reproduce the scientific core of V8. Figures 9-14 contain the reviewer-requested metric, Nordic, shock-intensity, and resource-robustness extensions. All remaining outputs are retained in the appendix folders."
+}

@@ -1,0 +1,14 @@
+sample,economy,rank_HHI,rank_weighted_degree_hhi,rank_eigenvector_concentration,rank_betweenness_concentration,rank_chi,rank_worstcase_loss_pct
+baseline_5,France,5.0,4.0,4.0,2.0,5.0,5.0
+baseline_5,Germany,4.0,5.0,5.0,1.0,4.0,4.0
+baseline_5,Italy,3.0,3.0,3.0,3.0,3.0,3.0
+baseline_5,Netherlands,2.0,2.0,1.0,5.0,2.0,2.0
+baseline_5,Spain,1.0,1.0,2.0,4.0,1.0,1.0
+extended_nordic_8,Denmark,1.0,3.0,2.0,1.0,1.0,6.0
+extended_nordic_8,Finland,7.0,5.0,3.0,7.0,5.0,5.0
+extended_nordic_8,France,8.0,6.0,6.0,4.0,8.0,8.0
+extended_nordic_8,Germany,5.0,7.0,7.0,3.0,6.0,4.0
+extended_nordic_8,Italy,4.0,4.0,5.0,5.0,4.0,3.0
+extended_nordic_8,Netherlands,3.0,2.0,1.0,8.0,3.0,2.0
+extended_nordic_8,Spain,2.0,1.0,4.0,6.0,2.0,1.0
+extended_nordic_8,Sweden,6.0,8.0,8.0,2.0,7.0,7.0

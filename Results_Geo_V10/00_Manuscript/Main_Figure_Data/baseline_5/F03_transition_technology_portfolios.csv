@@ -1,0 +1,26 @@
+economy,technology,portfolio_weight
+France,EV batteries,0.23
+Germany,EV batteries,0.24
+Italy,EV batteries,0.2
+Netherlands,EV batteries,0.14
+Spain,EV batteries,0.16
+France,Wind,0.24
+Germany,Wind,0.31
+Italy,Wind,0.17
+Netherlands,Wind,0.39
+Spain,Wind,0.24
+France,Solar PV,0.2
+Germany,Solar PV,0.24
+Italy,Solar PV,0.36
+Netherlands,Solar PV,0.14
+Spain,Solar PV,0.39
+France,Electrolysers,0.1
+Germany,Electrolysers,0.1
+Italy,Electrolysers,0.07
+Netherlands,Electrolysers,0.15
+Spain,Electrolysers,0.07
+France,Power grids,0.23
+Germany,Power grids,0.11
+Italy,Power grids,0.2
+Netherlands,Power grids,0.18
+Spain,Power grids,0.14

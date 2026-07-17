@@ -1,0 +1,31 @@
+technology,resource,material_intensity
+EV batteries,Lithium,0.26
+Wind,Lithium,0.0
+Solar PV,Lithium,0.0
+Electrolysers,Lithium,0.0
+Power grids,Lithium,0.0
+EV batteries,Nickel,0.22
+Wind,Nickel,0.0
+Solar PV,Nickel,0.1
+Electrolysers,Nickel,0.45
+Power grids,Nickel,0.0
+EV batteries,Cobalt,0.17
+Wind,Cobalt,0.0
+Solar PV,Cobalt,0.0
+Electrolysers,Cobalt,0.1
+Power grids,Cobalt,0.0
+EV batteries,Graphite,0.25
+Wind,Graphite,0.0
+Solar PV,Graphite,0.2
+Electrolysers,Graphite,0.0
+Power grids,Graphite,0.15
+EV batteries,Rare earths,0.0
+Wind,Rare earths,0.45
+Solar PV,Rare earths,0.1
+Electrolysers,Rare earths,0.15
+Power grids,Rare earths,0.2
+EV batteries,Copper,0.1
+Wind,Copper,0.55
+Solar PV,Copper,0.6
+Electrolysers,Copper,0.3
+Power grids,Copper,0.65

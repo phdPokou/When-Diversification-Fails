@@ -1,0 +1,9 @@
+sample,baseline_model,added_metric,added_metric_label,baseline_r2,full_r2,incremental_r2,n_obs
+baseline_5,HHI,weighted_degree_hhi,Weighted-degree HHI,0.23886402575120913,0.3744721501831011,0.13560812443189196,750
+baseline_5,HHI,eigenvector_concentration,Eigenvector-centrality concentration,0.23886402575120913,0.2857111983255539,0.046847172574344786,750
+baseline_5,HHI,betweenness_concentration,Betweenness-centrality concentration,0.23886402575120913,0.2657792297066506,0.026915203955441447,750
+baseline_5,HHI,chi,Spectral vulnerability (chi),0.23886402575120913,0.40431577542568464,0.1654517496744755,750
+extended_nordic_8,HHI,weighted_degree_hhi,Weighted-degree HHI,0.08627065246192755,0.27980633492254003,0.19353568246061248,1200
+extended_nordic_8,HHI,eigenvector_concentration,Eigenvector-centrality concentration,0.08627065246192755,0.14552019150949114,0.05924953904756358,1200
+extended_nordic_8,HHI,betweenness_concentration,Betweenness-centrality concentration,0.08627065246192755,0.11077539146570592,0.024504739003778364,1200
+extended_nordic_8,HHI,chi,Spectral vulnerability (chi),0.08627065246192755,0.2586645110391582,0.17239385857723066,1200
