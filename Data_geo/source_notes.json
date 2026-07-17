@@ -1,0 +1,9 @@
+{
+  "A_RC": "Calibrated from USGS Mineral Commodity Summaries 2025 production dominance patterns; reference PDFs downloaded when possible.",
+  "A_TR": "Calibrated from IEA Critical Minerals and JRC critical raw material technology profiles; intended as normalized material-intensity templates.",
+  "X_ET": "Calibrated from IRENA/Eurostat-style transition-portfolio shares; replace with country-specific installed capacity shares if available.",
+  "WGI": "Political Stability and Absence of Violence/Terrorism (PV.EST) optionally downloaded from World Bank API.",
+  "USGS_index": "https://pubs.usgs.gov/periodicals/mcs2025/",
+  "USGS_full_pdf": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025.pdf",
+  "WorldBank_PV_EST_API_template": "https://api.worldbank.org/v2/country/{country}/indicator/PV.EST?format=json&per_page=100"
+}

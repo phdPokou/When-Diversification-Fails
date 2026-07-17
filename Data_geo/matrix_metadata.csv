@@ -1,0 +1,5 @@
+component,description,primary_source,status
+A_RC,Supplier-country shares in global critical mineral production,USGS Mineral Commodity Summaries 2025; calibrated production-share matrix,curated_source_calibrated
+A_TR,Normalized material intensity by clean-energy technology,IEA Critical Minerals / JRC technology profiles; normalized among selected minerals,curated_source_calibrated
+X_ET,Technology portfolio shares by European economy,IRENA/Eurostat-style installed capacity and transition-policy calibration,curated_source_calibrated
+WGI,Political stability risk proxy,World Bank WGI PV.EST API when available,optional

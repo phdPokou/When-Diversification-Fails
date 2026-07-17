@@ -1,0 +1,11 @@
+country,iso3,political_stability_estimate,data_source
+China,CHN,0.0,fallback_curated
+Australia,AUS,1.0,fallback_curated
+Chile,CHL,0.4,fallback_curated
+DR Congo,COD,-1.5,fallback_curated
+Indonesia,IDN,-0.2,fallback_curated
+Russia,RUS,-1.0,fallback_curated
+United States,USA,0.6,fallback_curated
+Morocco,MAR,-0.3,fallback_curated
+South Africa,ZAF,-0.1,fallback_curated
+Brazil,BRA,-0.2,fallback_curated
